@@ -1,0 +1,9 @@
+Printed,Harry Potter,Joanne Rowling,Novel,ISBN978604,true,150
+Printed,Clean Code,Robert C. Martin,Programming,ISBN978605,true,464
+Printed,Thinking in Java,Bruce Eckel,Programming,ISBN978013,true,1150
+Printed,I see Yellow Flowers on the Green Grass,Nguyen Nhat Anh,Novel,ISBN978193,true,210
+Printed,1984,George Orwell,Dystopian,ISBN978045,true,328
+Printed,The Great Gatsby,F. Scott Fitzgerald,Fiction,ISBN978074,true,180
+Ebook,The Adventures of a Cricket,To Hoai,Children’s Literature,ISBN978603,false,MOBI
+Ebook,The Pragmatic Programmer,Andrew Hunt, Programming,ISBN978020,false,MOBI
+Ebook,Sherlock Holmes,Sir Arthur Conan Doyle,Crime Fiction,ISBN978150,false,EPUB

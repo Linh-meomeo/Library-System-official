@@ -1,0 +1,10 @@
+reader1,ISBN978604,borrow,11-04-2025,25-04-2025
+reader2,ISBN978309,return,20-04-2025,onTime
+reader3,ISBN978193,borrow, 01-08-2024,07-08-2024
+reader4,ISBN978013,return,13-01-2024,onTime
+reader5,ISBN978045,borrow,22-07-2024,25-07-2024
+reader6,ISBN978074,borrow,26-07-2024,-6-8-2024
+reader7,ISBN978026,borrow,11-02-205,20-02-2025
+reader8,ISBN978604,return,13-03-2025,onTime
+reader9,ISBN978020,return,30-10-2024,onTime
+reader10,ISBN978043,return,05-06-2024,onTime

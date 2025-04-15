@@ -1,0 +1,15 @@
+A,Le Minh Hoang,admin1,@admin1
+A,Vo Phan Minh Tien,admin2,@vpmt12345
+A,Bui Duong Quoc Khanh,khanh123,#khanh123
+A,Tran Trong Van,Van456,$van456
+A,Nguyen Truong Tho,Tho8386,@tho845
+L,Nguyen Phuoc Linh,meo0108,!meo180
+L,Ly Quang Phu,759phu,ly445%
+L,Nguyen Van A,librarian1,@librarian1
+L,Hoang Vu Khanh Uyen,uyen1301,&uyenhoang31
+L,Huynh Quang Vinh,trau456,^vinhhuynh455
+R,Truong Dinh Trong,trong267,@tdt45
+R,Tran Hieu Vi,vitran09,$156vi
+R,Dao Ngoc Tram Anh,anh786,Tanh456>
+R,Nguyen Tan Nghi,nghi644,@nghi156
+R,Mai Le Anh Thy,thy468,!thy689
