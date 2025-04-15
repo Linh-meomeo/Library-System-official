@@ -6,4 +6,3 @@ Printed,The Great Gatsby,F. Scott Fitzgerald,Fiction,ISBN978074,true,180
 Ebook,The Adventures of a Cricket,To Hoai,Children’s Literature,ISBN978603,false,MOBI
 Ebook,The Pragmatic Programmer,Andrew Hunt,Programming,ISBN978020,false,MOBI
 Ebook,Sherlock Holmes,Sir Arthur Conan Doyle,Crime Fiction,ISBN978150,false,EPUB
-Printed,The Catcher in the Rye,J.D.Salinger,Novel,ISBN978345,true,277
