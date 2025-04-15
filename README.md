@@ -1,5 +1,5 @@
 ## Library Management System
-##### Student:
+##### Students:
 ##### B2306685 - Vo Phan Minh Tien
 ##### B2306689 - Truong Dinh Trong
 ##### B2306673 - Nguyen Phuoc Linh
